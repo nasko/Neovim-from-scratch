@@ -2,6 +2,7 @@
 local servers = {
 	"lua_ls",
 	"jsonls",
+	"apex_ls",
 }
 
 local settings = {
